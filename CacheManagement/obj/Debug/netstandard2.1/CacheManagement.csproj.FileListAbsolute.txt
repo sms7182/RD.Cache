@@ -1,0 +1,12 @@
+C:\Users\Raven\source\repos\CacheService\CacheManagement\bin\Debug\netstandard2.1\CacheManagement.deps.json
+C:\Users\Raven\source\repos\CacheService\CacheManagement\bin\Debug\netstandard2.1\CacheManagement.dll
+C:\Users\Raven\source\repos\CacheService\CacheManagement\bin\Debug\netstandard2.1\CacheManagement.pdb
+C:\Users\Raven\source\repos\CacheService\CacheManagement\bin\Debug\netstandard2.1\Service.Contract.dll
+C:\Users\Raven\source\repos\CacheService\CacheManagement\bin\Debug\netstandard2.1\Service.Contract.pdb
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.csprojAssemblyReference.cache
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.AssemblyInfoInputs.cache
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.AssemblyInfo.cs
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.csproj.CoreCompileInputs.cache
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.csproj.CopyComplete
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.dll
+C:\Users\Raven\source\repos\CacheService\CacheManagement\obj\Debug\netstandard2.1\CacheManagement.pdb

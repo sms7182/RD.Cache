@@ -1,0 +1,9 @@
+C:\Users\Raven\source\repos\CacheService\Service.Contract\bin\Debug\netstandard2.1\Service.Contract.deps.json
+C:\Users\Raven\source\repos\CacheService\Service.Contract\bin\Debug\netstandard2.1\Service.Contract.dll
+C:\Users\Raven\source\repos\CacheService\Service.Contract\bin\Debug\netstandard2.1\Service.Contract.pdb
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.csprojAssemblyReference.cache
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.AssemblyInfoInputs.cache
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.AssemblyInfo.cs
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.dll
+C:\Users\Raven\source\repos\CacheService\Service.Contract\obj\Debug\netstandard2.1\Service.Contract.pdb
